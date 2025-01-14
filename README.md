@@ -1,1 +1,2 @@
-# Ph-m-Ho-ng-Th-ng
+# Phạm-Hoàng-Thắng
+ 99Tech Code Challenge #1
